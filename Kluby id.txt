@@ -1,0 +1,20 @@
+Arsenal:42
+Aton Villa:66
+Bournemouth:35
+Brighton:51
+Burnley:44
+Chelsea:49
+CrystalPalace:52
+Everton:45
+Leicester:46
+Liverpool:40
+ManchesterCity:50
+ManchesterUnited:33
+Newcastle:34
+Norwich:71
+SheffieldUtd:62
+Southampton:41
+Tottenham:47
+Watford:38
+WestHam:48
+Wolves:39
